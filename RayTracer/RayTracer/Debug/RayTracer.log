@@ -1,0 +1,75 @@
+﻿  AmbientLight.cpp
+  Camera.cpp
+  DirectionalLight.cpp
+  Disk.cpp
+C:\Users\Burakhan\Desktop\RayTracer\RayTracer\Material.h(22,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Image.cpp
+  Intersection.cpp
+C:\Users\Burakhan\Desktop\RayTracer\RayTracer\Material.h(22,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+  main.cpp
+C:\Users\Burakhan\Desktop\RayTracer\RayTracer\Material.h(22,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Burakhan\Desktop\RayTracer\RayTracer\SpotLight.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\xmemory(230,33): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\memory(1563): message : see reference to function template instantiation 'void std::_Construct_in_place<_Ty,Utility::Vector3,Utility::Vector3,double,Core::Material&>(_Ty &,Utility::Vector3 &&,Utility::Vector3 &&,double &&,Core::Material &) noexcept(false)' being compiled
+          with
+          [
+              _Ty=Primitive::Disk
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\memory(2207): message : see reference to function template instantiation 'std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<Utility::Vector3,Utility::Vector3,double,Core::Material&>(Utility::Vector3 &&,Utility::Vector3 &&,double &&,Core::Material &)' being compiled
+          with
+          [
+              _Ty=Primitive::Disk
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\memory(2208): message : see reference to function template instantiation 'std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<Utility::Vector3,Utility::Vector3,double,Core::Material&>(Utility::Vector3 &&,Utility::Vector3 &&,double &&,Core::Material &)' being compiled
+          with
+          [
+              _Ty=Primitive::Disk
+          ]
+C:\Users\Burakhan\Desktop\RayTracer\RayTracer\main.cpp(65): message : see reference to function template instantiation 'std::shared_ptr<Primitive::Disk> std::make_shared<Primitive::Disk,Utility::Vector3,Utility::Vector3,double,Core::Material&>(Utility::Vector3 &&,Utility::Vector3 &&,double &&,Core::Material &)' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\xmemory(230,33): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\memory(1563): message : see reference to function template instantiation 'void std::_Construct_in_place<_Ty,Utility::Vector3,Utility::Vector3,int>(_Ty &,Utility::Vector3 &&,Utility::Vector3 &&,int &&) noexcept(false)' being compiled
+          with
+          [
+              _Ty=Core::PointLight
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\memory(2207): message : see reference to function template instantiation 'std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<Utility::Vector3,Utility::Vector3,int>(Utility::Vector3 &&,Utility::Vector3 &&,int &&)' being compiled
+          with
+          [
+              _Ty=Core::PointLight
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\memory(2208): message : see reference to function template instantiation 'std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<Utility::Vector3,Utility::Vector3,int>(Utility::Vector3 &&,Utility::Vector3 &&,int &&)' being compiled
+          with
+          [
+              _Ty=Core::PointLight
+          ]
+C:\Users\Burakhan\Desktop\RayTracer\RayTracer\main.cpp(73): message : see reference to function template instantiation 'std::shared_ptr<Core::PointLight> std::make_shared<Core::PointLight,Utility::Vector3,Utility::Vector3,int>(Utility::Vector3 &&,Utility::Vector3 &&,int &&)' being compiled
+  Material.cpp
+C:\Users\Burakhan\Desktop\RayTracer\RayTracer\Material.h(22,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Plane.cpp
+C:\Users\Burakhan\Desktop\RayTracer\RayTracer\Material.h(22,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+  PointLight.cpp
+  Ray.cpp
+  Render.cpp
+C:\Users\Burakhan\Desktop\RayTracer\RayTracer\Material.h(22,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Scene.cpp
+C:\Users\Burakhan\Desktop\RayTracer\RayTracer\Material.h(22,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Sphere.cpp
+C:\Users\Burakhan\Desktop\RayTracer\RayTracer\Material.h(22,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+  SpotLight.cpp
+C:\Users\Burakhan\Desktop\RayTracer\RayTracer\SpotLight.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Union.cpp
+C:\Users\Burakhan\Desktop\RayTracer\RayTracer\Material.h(22,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Vector3.cpp
+C:\Users\Burakhan\Desktop\RayTracer\RayTracer\Vector3.cpp(86,6): warning C4805: '==': unsafe mix of type 'const float' and type 'bool' in operation
+  Vector4.cpp
+  Generating Code...
+C:\Users\Burakhan\Desktop\RayTracer\RayTracer\Union.cpp(26): warning C4715: 'Primitive::Union::intersect_first_image': not all control paths return a value
+  RayTracer.vcxproj -> C:\Users\Burakhan\Desktop\RayTracer\Debug\RayTracer.exe
