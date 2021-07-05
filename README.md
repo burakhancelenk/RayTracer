@@ -22,7 +22,7 @@ A simple ray tracer covering basic mechanics.
 1 - Perspective
 
 ### Additional Features
-1 - Anti-aliasied rendering
+1 - Anti-aliased rendering
 
 ### Roadmap
 1 - Rectangular light\
