@@ -1,4 +1,4 @@
-# A Simple Ray Tracer
+# Standalone Simple Ray Tracer
 A simple ray tracer covering basic mechanics.
 \
 \
