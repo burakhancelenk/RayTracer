@@ -27,6 +27,6 @@ A simple ray tracer covering basic mechanics.
 ### Roadmap
 1 - Rectangular light\
 2 - Box, Cone and Cylinder primitives\
-3 - Complex model import
+3 - Complex model import\
 4 - Isometric camera model\
 5 - PBR
