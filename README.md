@@ -15,8 +15,8 @@ A simple ray tracer covering basic mechanics.
 1 - Sphere\
 2 - Plane\
 3 - Disk\
-3 - Intersection(Render only intersection of added objects)\
-3 - Union(Render union of added objects)
+4 - Intersection(Render only intersection of added objects)\
+5 - Union(Render union of added objects)
 
 ### Camera models
 1 - Perspective
