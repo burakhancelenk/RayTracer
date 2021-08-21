@@ -6,7 +6,7 @@ A simple ray tracer covering basic mechanics.
 **Language:** C++
 
 ### Example Render
-![](Example-Render.png)
+![](ExampleRender.png)
 ### Added Light types
 1 - Ambient Light\
 2 - Directional Light\
